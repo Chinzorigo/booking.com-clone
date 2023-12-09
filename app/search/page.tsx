@@ -1,4 +1,4 @@
-import { fetchResults } from "@/lib/fetchResults ";
+import { fetchResults } from "@/lib/fetchResults";
 import Link from "next/link";
 import { notFound } from "next/navigation";
 
